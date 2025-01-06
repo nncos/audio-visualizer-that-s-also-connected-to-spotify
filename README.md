@@ -1,4 +1,4 @@
-# audio-visualizer-that-s-also-connected-to-spotify
+# audio-visualizer-thats-also-connected-to-spotify
 
 demonstration:
 https://github.com/user-attachments/assets/53327c3d-19d5-4cd7-9580-b14ec638be61
